@@ -1,0 +1,10 @@
+p {
+	color: gold;
+	background: blue;
+	font-style: italic;
+	text-align: center;
+	font-size: large
+}
+h1{
+	text-shadow: 2px 2px #FFD700
+}
